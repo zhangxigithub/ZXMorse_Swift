@@ -2,7 +2,7 @@ ZXMorse_Swift
 =============
 ![screen](https://raw.githubusercontent.com/zhangxigithub/ZXMorse_Swift/master/sceenshot.png)
 
-
+`
 let morse = ZXMorse()
 
 println(morse.encode("zhangxi.me"))
@@ -16,3 +16,4 @@ println(morse.decode(["-","---.."]))
 
 println(morse.decode("- ---..",separator:" "))
 //T 8 
+`
